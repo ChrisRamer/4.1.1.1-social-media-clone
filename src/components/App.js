@@ -7,8 +7,14 @@ function App() {
 	return (
 		<React.Fragment>
 			<Header />
-			<StatusSection />
-			<SummarySection />
+			<div class="grid-container">
+				<div class="grid-item"><SummarySection /></div>
+				<div class="grid-item"><StatusSection /></div>
+				<div class="grid-item"><StatusSection /></div>
+				<div class="grid-item"><SummarySection /></div>
+				<div class="grid-item"><SummarySection /></div>
+				<div class="grid-item"><SummarySection /></div>
+			</div>
 		</React.Fragment>
 	);
 }
