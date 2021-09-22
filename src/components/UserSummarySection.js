@@ -1,11 +1,12 @@
 import React from "react";
 
-function StatusSection() {
+function UserSummarySection() {
 	return (
 		<div id="summarySection" class="panel">
 			<p>Hello, world!</p>
+			<p>This is the user summary section</p>
 		</div>
 	);
 }
 
-export default StatusSection;
+export default UserSummarySection;
