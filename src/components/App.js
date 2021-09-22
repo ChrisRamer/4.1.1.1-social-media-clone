@@ -4,6 +4,7 @@ import StatusSection from "./StatusSection";
 import UserSummarySection from "./UserSummarySection";
 import UserInfoSection from "./UserInfoSection";
 import FollowSection from "./FollowSection";
+import FeedSection from "./FeedSection";
 
 function App() {
 	return (
@@ -14,6 +15,7 @@ function App() {
 				<div class="grid-item"><StatusSection /></div>
 				<div class="grid-item"><FollowSection /></div>
 				<div class="grid-item"><UserInfoSection /></div>
+				<div class="grid-item"><FeedSection /></div>
 			</div>
 		</React.Fragment>
 	);
