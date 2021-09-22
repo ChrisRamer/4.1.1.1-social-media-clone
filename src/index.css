@@ -89,3 +89,8 @@ select option {
 	width: 400px;
 	height: 25px;
 }
+
+#userImage {
+	width: 75px;
+	margin-left: 50px;
+}
