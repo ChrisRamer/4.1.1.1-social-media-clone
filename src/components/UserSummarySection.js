@@ -2,7 +2,7 @@ import React from "react";
 
 function UserSummarySection() {
 	return (
-		<div id="summarySection" class="panel">
+		<div id="userSummarySection" class="panel">
 			<p>Hello, world!</p>
 			<p>This is the user summary section</p>
 		</div>
