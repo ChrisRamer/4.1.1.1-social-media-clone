@@ -93,6 +93,7 @@ select option {
 #userImage {
 	width: 75px;
 	margin-left: 50px;
+	border-radius: 50%;
 }
 
 #followSection #userImage {
