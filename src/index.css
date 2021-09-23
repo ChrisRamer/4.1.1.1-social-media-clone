@@ -94,3 +94,8 @@ select option {
 	width: 75px;
 	margin-left: 50px;
 }
+
+#followSection #userImage {
+	width: 50px;
+	margin-left: 100px;
+}
